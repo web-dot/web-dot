@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @web-dot
-- 👀 I’m interested in web development and programming.
-- 🌱 I’m currently learning frontend dev and basic backend dev.
-- 💞️ I’m looking to collaborate on building web applications.
-- 📫 How to reach me : fedev.sudipto@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dot)](https://github.com/web-dot/github-readme-stats)
 
 <!---
 web-dot/web-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
