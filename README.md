@@ -1,4 +1,5 @@
-[![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dot)](https://github.com/web-dot/github-readme-stats)
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
 
 
 <!---
