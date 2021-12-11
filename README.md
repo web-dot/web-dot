@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=web-dot&count_private=true&theme=tokyonight&showicons=true)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dot&count_private=true)
 
 
 <!---
