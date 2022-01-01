@@ -1,6 +1,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dot&layout=compact)
 
-<img src=https://komarev.com/ghpvc/?username = web-dot/>
+<img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+
 
 <!---
 web-dot/web-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
