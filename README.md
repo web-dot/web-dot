@@ -1,4 +1,4 @@
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dot&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dot)](https://github.com/web-dot/github-readme-stats)
 
 
 <!---
