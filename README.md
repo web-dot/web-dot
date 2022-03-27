@@ -5,6 +5,6 @@
 
 
 
-"https://ionicabizau.github.io/github-profile-languages/api.html?web-dot
+https://ionicabizau.github.io/github-profile-languages/api.html?web-dot
 
 
